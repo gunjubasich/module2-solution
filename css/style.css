@@ -1,8 +1,5 @@
 * {
     box-sizing: border-box;
-    margin: 0;
-    padding: 0;
-    font-family: "Comic Sans MS", cursive, sans-serif;
 }
 
 h1 {
@@ -38,16 +35,16 @@ p {
     clear: right;
 }
 
-.t1 {
-    background-color: pink;
+.text1 {
+    background-color: red;
 }
 
-.t2 {
-    background-color: yellow;
-}
-
-.t3 {
+.text2 {
     background-color: green;
+}
+
+.text3 {
+    background-color: black;
     color: white;
 }
 
